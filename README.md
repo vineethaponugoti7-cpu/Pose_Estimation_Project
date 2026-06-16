@@ -35,7 +35,7 @@ The deep learning model itself is MediaPipe's pre-trained Pose Landmarker; the a
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pose-estimation.git
+git clone https://github.com/vineethaponugoti7-cpu/pose-estimation.git
 cd pose-estimation
 pip install -r requirements.txt
 ```
